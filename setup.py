@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-__version__ = '0.1.1'
+__version__ = '0.1.0'
 __author__ = 'Marco Volpato'
 
 
@@ -16,6 +16,8 @@ setup(
     description='A library to interact with TP-Link Archer routers.',
     long_description=long_description,
     long_description_content_type='text/markdown',
+    url='https://github.com/marcovolpato00/tplink-archer',
+    license='MIT',
     packages=find_packages(exclude=['*.tests', '*.tests.*', 'tests.*', 'tests']),
     install_requires=[
         'requests>=2.22.0',
