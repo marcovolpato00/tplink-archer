@@ -1,0 +1,6 @@
+[1,2,1,0,0,0]0
+associatedDeviceMACAddress=A0:66:08:FC:7F:E2
+X_TP_TotalPacketsSent=302141
+X_TP_TotalPacketsReceived=191340
+X_TP_HostName=wlan5
+[error]0

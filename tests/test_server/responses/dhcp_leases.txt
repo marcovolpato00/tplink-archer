@@ -1,0 +1,17 @@
+[1,1,0,0,0,0]0
+enable=1
+chaddr=A8:3E:0F:2A:EF:B1
+yiaddr=192.168.1.1
+[1,2,0,0,0,0]0
+enable=1
+chaddr=9A:88:6B:3E:C0:39
+yiaddr=192.168.1.2
+[1,3,0,0,0,0]0
+enable=1
+chaddr=F4:2E:55:3C:0F:FB
+yiaddr=192.168.1.3
+[1,7,0,0,0,0]0
+enable=1
+chaddr=B4:DF:99:48:57:3E
+yiaddr=192.168.1.4
+[error]0
